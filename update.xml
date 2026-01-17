@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>1.1.0.0</version>
-    <url>LIEN_VERS_TON_SETUP_ICI</url>
+    <url>sha256:6ea3c5fa5df7f7c9c8e875cc7643569869f2afba5eb04935bd99c2002abefb0d</url>
     <changelog>https://github.com/</changelog>
     <mandatory>false</mandatory>
+
 </item>
